@@ -1,2 +1,11 @@
-# MobileContactsConsoleSOA7
-The first SOA introductory Project
+# Mobile Contacts Console App – SOA (Java)
+
+Αυτό το project είναι μια κονσολική εφαρμογή Java για τη διαχείριση επαφών κινητού τηλεφώνου, σχεδιασμένη με προσέγγιση **Service-Oriented Architecture (SOA)**. Η εφαρμογή αναπτύχθηκε στο πλαίσιο του Coding Factory 7.
+
+## 📦 Λειτουργίες
+
+- Δημιουργία νέας επαφής
+- Αναζήτηση επαφών με βάση το όνομα ή τον αριθμό
+- Ενημέρωση στοιχείων επαφής
+- Διαγραφή επαφής
+- Εμφάνιση όλων των επαφών
